@@ -7,10 +7,8 @@ int main(void)
     GPIOC->ODR=0x00000000;
 	while(1)
 	{
-		
+	
 
 
-
-		
 	}
 }
